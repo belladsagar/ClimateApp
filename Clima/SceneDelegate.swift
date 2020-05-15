@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  Clima
 //
-//  Created by Angela Yu on 01/09/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
+//  Created by SAGAR C BELLAD on 31/03/2020.
+//  Copyright © 2019 App. All rights reserved.
 //
 
 import UIKit
